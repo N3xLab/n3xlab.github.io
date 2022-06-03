@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "de-CH"
-title                    : "n3x lab"
+title                    : "n3x Lab"
 title_separator          : "-"
 name                     : &name "n3x Lab"
 description              : &description "Non-profit development lab. Work on everything that interests us."
